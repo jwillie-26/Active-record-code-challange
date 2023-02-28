@@ -57,8 +57,5 @@ run three times for table of users,reviews and products.
                 Returns a collection of all the Products that the User has reviewe
 
 
-
-## Credits
-
-Technologies used include Ruby 
+ 
 
